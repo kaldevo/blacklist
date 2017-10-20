@@ -19,6 +19,25 @@
 0.0.0.0 webdepo.xyz
 0.0.0.0 www.wisecleaner.com
 0.0.0.0 www.wisecleaner.net
+# This hosts file contains exported entries from AdAway.
+# Mobile Ads
+0.0.0.0 cdn2.inner-active.mobi
+0.0.0.0 rpc.tapjoy.com
+0.0.0.0 ads.engagefront.com
+0.0.0.0 c2i.startappnetwork.com
+0.0.0.0 event.inner-active.mobi
+0.0.0.0 imgix.net
+0.0.0.0 imgix1.zendesk.com
+0.0.0.0 screenrant0.imgix.net
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 go.mooncklick.com
+0.0.0.0 placements.tapjoy.com
+0.0.0.0 e.crashlytics.com
+0.0.0.0 app.roximity.com
+0.0.0.0 screenrant1.imgix.net
+0.0.0.0 c2i-cdn.startappnetwork.com
+0.0.0.0 mooncklick.com
+0.0.0.0 webapp.imgix.com
 # Cryotominers
 0.0.0.0 minemytraffic.com
 0.0.0.0 server.jsecoin.com
