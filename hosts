@@ -38,6 +38,13 @@
 0.0.0.0 c2i-cdn.startappnetwork.com
 0.0.0.0 mooncklick.com
 0.0.0.0 webapp.imgix.com
+### SpotifyAds
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 gads.pubmatic.com
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+# 0.0.0.0 spclient.wg.spotify.com # GH-270 
+0.0.0.0 www.googletagservices.com
 # Cryotominers
 0.0.0.0 minemytraffic.com
 0.0.0.0 server.jsecoin.com
