@@ -20,10 +20,13 @@
 0.0.0.0 www.wisecleaner.com
 0.0.0.0 www.wisecleaner.net
 # Session Replay
-fullstory.net
-insights.hotjar.com
-script.hotjar.com
-vwo.com
+0.0.0.0 fullstory.net
+0.0.0.0 d10lpsik1i8c69.cloudfront.net
+0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
+0.0.0.0 mc.yandex.ru
+0.0.0.0 ws.sessioncam.com
+0.0.0.0 vwo.com
+0.0.0.0 insights.hotjar.com
 # This hosts file contains exported entries from AdAway.
 # Mobile Ads
 0.0.0.0 cdn2.inner-active.mobi
