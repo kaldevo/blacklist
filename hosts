@@ -1,6 +1,7 @@
 # Just a collection for my  Pi-Hole
 # This was made for me, you might need to adjust it for your own usage
 # Personal list
+0.0.0.0 umcsurvey.com
 0.0.0.0 feedbackconduct.com
 0.0.0.0 usc.adserver.snapads.com
 0.0.0.0 adserver.snapads.com
