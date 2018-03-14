@@ -1,6 +1,7 @@
 # Just a collection for my  Pi-Hole
 # This was made for me, you might need to adjust it for your own usage
 # Personal list
+0.0.0.0 56bc7e3668e952c.com
 0.0.0.0 d31ea41705818c9.com
 0.0.0.0 58b291f917728a2.com
 0.0.0.0 ffe5bd4c787357c.com
