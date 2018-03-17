@@ -1,6 +1,9 @@
 # Just a collection for my  Pi-Hole
 # This was made for me, you might need to adjust it for your own usage
 # Personal list
+0.0.0.0 lx1.dyncdn.cc
+0.0.0.0 cdn.advancedmacmanager.com
+0.0.0.0 c87a33c9c4f848d16df8.date
 0.0.0.0 p270543.clkcln.com
 0.0.0.0 ze0y6.heto.gdn
 0.0.0.0 bb35.0keg.online
