@@ -1,4 +1,5 @@
 ! Popunder
+1337x.*##script:inject(abort-on-property-write.js, _pop)
 ||1337x.*^$popunder
 ||1337x.*/vpn8.php
 ||1337x.*/js/dfbeccafdbdfa.js
