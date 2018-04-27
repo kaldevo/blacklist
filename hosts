@@ -1,6 +1,7 @@
 # Just a collection for my  Pi-Hole
 # This was made for me, you might need to adjust it for your own usage
 # Personal list
+0.0.0.0 up2date.thedfgoodoneprotsystemforcontentsstable.info
 0.0.0.0 cdn.advancedmacmanager.com
 0.0.0.0 c87a33c9c4f848d16df8.date
 0.0.0.0 p270543.clkcln.com
