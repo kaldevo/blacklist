@@ -1,6 +1,16 @@
 # Just a collection for my  Pi-Hole
 # This was made for me, you might need to adjust it for your own usage
 # Personal list
+# Avast
+0.0.0.0 analytics.ff.avast.com
+0.0.0.0 ipm-provider.ff.avast.com
+0.0.0.0 v7.stats.avast.com
+0.0.0.0 v7event.stats.avast.com
+0.0.0.0 ip-info.ff.avast.com
+0.0.0.0 ccleaner.tools.avcdn.net
+0.0.0.0 emupdate.avcdn.net
+0.0.0.0 license.piriform.com   
+# 
 0.0.0.0 redirector.gvt1.com
 0.0.0.0 up2date.thedfgoodoneprotsystemforcontentsstable.info
 0.0.0.0 cdn.advancedmacmanager.com
